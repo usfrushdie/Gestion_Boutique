@@ -1,0 +1,42 @@
+1
+ROCHDI
+Youssef
+8 12 2002
+123@gmail.com
+ABCDEF123
+2
+Bendhaiba
+Aymen
+1 1 2002
+bendhaiba.aym.fst@uhp.ac.ma
+Aymen2023+
+3
+RAMZA
+Khalid
+5 8 1973
+ramzi@gmail.com
+RAMZI150367
+5
+Oumaima
+SAHIRI
+27 26 2000
+oum.sahiri23@yahoo.fr
+Oumaima
+6
+Ohtman
+LATRACHE
+8 9 2002
+hfdgfdg@gmail.com
+jjdfgdf78
+7
+Fouzia
+El_Malki
+5 10 2003
+fouzia.elm153@gmail.com
+Lkfgdfg123
+8
+hjghjgh
+jhkhjhjlh
+12 5 2001
+hjgjk@fghgh.fd
+gjhfgjghj+
